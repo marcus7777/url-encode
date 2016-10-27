@@ -1,0 +1,13 @@
+{
+  "name": "url-encode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "url-encode.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "polymer": "*"
+  }
+}
